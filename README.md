@@ -35,7 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gods three arrovves plague, famine, svvord, in three treatises. I. A plaister for the plague. II. De
+
+1. TO THE RIGHT HONOVRABLE, SIR THOMAS COVENTRY, Knight, Lord COVENTRY, Baron of Alesborough, Lord Keeper of the Great Seale of ENGLAND.
+TO THE RIGHT HONOVRABLE, RIGHT Worſhipfull, and other my Beloved Pariſhioners, Inhabitants of Black-
+1. Errata.
+
 **Types of content**
 
   * There are 8 **verse** lines!
